@@ -1,16 +1,17 @@
-## Hi there 👋
+## Introduction
 
-<!--
-**kylehovo/kylehovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Kyle!
 
-Here are some ideas to get you started:
+I graduated in 2025 with a Bachelors in Computer Science, Summa Cum Laude (yay!), from the University of North Dakota.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a selection of my projects!
+
+I also write plenty of Markdown notes / documentation for myself that aren't reflected on my public presence, but don't expect to see them here anytime soon.
+
+(When writing for myself, the line between documentation and diary is sometimes blury).
+
+## Additional Repositories
+
+Here's some additional projects that I've contributed to!
+
+- [UND-ACM/git-talk](https://github.com/UND-ACM/git-talk)
