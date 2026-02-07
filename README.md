@@ -9,9 +9,3 @@ Here's a selection of my projects!
 I also write plenty of Markdown notes / documentation for myself that aren't reflected on my public presence, but don't expect to see them here anytime soon.
 
 (When writing for myself, the line between documentation and diary is sometimes blury).
-
-## Additional Repositories
-
-Here's some additional projects that I've contributed to!
-
-- [UND-ACM/git-talk](https://github.com/UND-ACM/git-talk)
